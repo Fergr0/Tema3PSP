@@ -5,7 +5,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 /*Esta clase es la que inicia un servidor en el puerto que le asignemos, como el ejercicio pide que acepte dos clientes, he optado
-* por cerrar la conexion cuando se hayan conectado dos clientes, por eo la variable MAX_CLIENTES*/
+* por cerrar la conexion cuando se hayan conectado dos clientes, por eso la variable MAX_CLIENTES*/
 
 public class Servidor {
     public static void main(String[] args) {
